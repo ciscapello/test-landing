@@ -10,9 +10,13 @@
 @import './notab';
 @import './feedback';
 @import './footer';
-@import './media';
 @import './cookie';
 @import './keyframes';
+@import './media/375';
+@import './media/1400';
+@import './media/1200';
+@import './media/1024';
+@import './media/768';
 
 body {
     margin: 0;
